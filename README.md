@@ -8,6 +8,7 @@ This project involves analyzing patient data using **SQL for data processing** a
 ## Technologies Used
 - **SQL** (Data Cleaning, Transformation, and Querying)
 - **Power BI** (Data Visualization & Dashboarding)
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiMmI3YWQwYzQtODgxNS00ZmMzLTgxOGItMTQ2NTYzNmRmOTM3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">View Dashboard</a>
 
 ## Situation
 A healthcare provider needed a **data-driven approach** to monitor patient admissions, high-risk cases, billing trends, and seasonal patterns. The goal was to enhance decision-making for **better patient care and resource allocation**.
